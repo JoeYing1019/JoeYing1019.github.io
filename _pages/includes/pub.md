@@ -12,7 +12,7 @@
   
 # 📝 Publications
 - ``ICASSP 2024`` [SDIF-DA: A Shallow-to-Deep Interaction Framework with Data Augmentation for Multi-modal Intent Detection](https://arxiv.org/pdf/2401.00424.pdf), **Shijue Huang**, Libo Qin, Bingbing Wang, Geng Tu, Ruifeng Xu.
-- ``EMNLP 2023`` <span style="color:red">(Oral)</span> [Cross-lingual Prompting: Improving Zero-shot Chain-of-Thought Reasoning across Languages](https://arxiv.org/abs/2310.14799), Libo Qin, Qiguang Chen, Fuxuan Wei, **Shijue Huang**, Wanxiang Che.
+- ``EMNLP 2023`` [Cross-lingual Prompting: Improving Zero-shot Chain-of-Thought Reasoning across Languages](https://arxiv.org/abs/2310.14799), Libo Qin, Qiguang Chen, Fuxuan Wei, **Shijue Huang**, Wanxiang Che.
 - ``ACL 2023 (Findings)`` [MMSD2.0: Towards a Reliable Multi-modal Sarcasm Detection System](https://aclanthology.org/2023.findings-acl.689/), Libo Qin\*, **Shijue Huang**\*, Qiguang Chen, Chenran Cai, Yudi Zhang, Bin Liang, Wanxiang Che, Ruifeng Xu.
 - ``COLING 2022`` [CGIM: A Cycle Guided Interactive Learning Model for Consistency Identification in Task-oriented Dialogue](https://aclanthology.org/2022.coling-1.37.pdf), Libo Qin, Qiguang Chen, Tianbao Xie, Qian Liu, **Shijue Huang**, Wanxiang Che, Zhou Yu.
 - ``EMNLP 2021`` [Don't be Contradicted with Anything! CI-ToD: Towards Benchmarking Consistency for Task-oriented Dialogue System.](https://aclanthology.org/2021.emnlp-main.182.pdf), Libo Qin, Tianbao Xie, **Shijue Huang**, Qiguang Chen, Xiao Xu, Wanxiang Che.
