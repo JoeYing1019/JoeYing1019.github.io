@@ -1,5 +1,5 @@
 # 🔥 News
-- *2024.04*: 🎉 One paper ([M^3F](https://www.sciencedirect.com/science/article/pii/S095070512400412X)) is accepted by KBS.
+- *2024.04*: 🎉 One paper ([$M^3F$](https://www.sciencedirect.com/science/article/pii/S095070512400412X)) is accepted by KBS.
 - *2024.02*: 🔥 We release [UltraTool](https://github.com/JoeYing1019/UltraTool).
 - *2023.12*: 🎉 One paper ([SDIF-DA](https://arxiv.org/abs/2310.08582)) is accepted by ICASSP 2024.
 - *2023.10*: 🎉 Fortunately, I win a Graduate National Scholarship!
