@@ -1,4 +1,5 @@
 # 🔥 News
+- *2024.04*: 🎉 One paper ([UltraTool](https://arxiv.org/pdf/2401.17167)) is accepted by ACL 2024 (Findings).
 - *2024.04*: 🎉 One paper ([M$^3$F](https://www.sciencedirect.com/science/article/pii/S095070512400412X)) is accepted by KBS.
 - *2024.02*: 🔥 We release [UltraTool](https://github.com/JoeYing1019/UltraTool).
 - *2023.12*: 🎉 One paper ([SDIF-DA](https://arxiv.org/abs/2310.08582)) is accepted by ICASSP 2024.
