@@ -20,7 +20,7 @@
 - ``NLPCC 2023`` [Improving Few-Shot and Zero-Shot Entity Linking with Coarse-to-Fine Lexicon-Based Retriever](https://arxiv.org/pdf/2308.03365.pdf), **Shijue Huang**, Bingbing Wang, Libo Qin, Qin Zhao, Ruifeng Xu.
 - ``EMNLP 2023`` [Cross-lingual Prompting: Improving Zero-shot Chain-of-Thought Reasoning across Languages](https://arxiv.org/abs/2310.14799), Libo Qin, Qiguang Chen, Fuxuan Wei, **Shijue Huang**, Wanxiang Che.
 - ``COLING 2022`` [CGIM: A Cycle Guided Interactive Learning Model for Consistency Identification in Task-oriented Dialogue](https://aclanthology.org/2022.coling-1.37.pdf), Libo Qin, Qiguang Chen, Tianbao Xie, Qian Liu, **Shijue Huang**, Wanxiang Che, Zhou Yu.
-- ``EMNLP 2021`` [Don't be Contradicted with Anything! CI-ToD: Towards Benchmarking Consistency for Task-oriented Dialogue System.](https://aclanthology.org/2021.emnlp-main.182.pdf), Libo Qin, Tianbao Xie, **Shijue Huang**, Qiguang Chen, Xiao Xu, Wanxiang Che.
+- ``EMNLP 2021`` [Don't be Contradicted with Anything! CI-ToD: Towards Benchmarking Consistency for Task-oriented Dialogue System](https://aclanthology.org/2021.emnlp-main.182.pdf), Libo Qin, Tianbao Xie, **Shijue Huang**, Qiguang Chen, Xiao Xu, Wanxiang Che.
 
 # 🛠️ Projects
 - ``MLNLP`` [Paper-Picture-Writing-Code](https://github.com/MLNLP-World/Paper-Picture-Writing-Code), ![](https://img.shields.io/github/stars/MLNLP-World/Paper-Picture-Writing-Code).
