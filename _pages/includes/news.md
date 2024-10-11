@@ -1,4 +1,5 @@
 # 🔥 News
+- *2024.08*: 🎉 One paper ([CLongEval](https://arxiv.org/pdf/2403.03514.pdf)) is accepted by EMNLP 2024 (Findings).
 - *2024.07*: 🎉 One paper ([MPFToD](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-024-3778-9)) is accepted by Frontiers of Computer Science.
 - *2024.05*: 🎉 One paper ([UltraTool](https://arxiv.org/pdf/2401.17167)) is accepted by ACL 2024 (Findings).
 - *2024.04*: 🎉 One paper ([M$^3$F](https://www.sciencedirect.com/science/article/pii/S095070512400412X)) is accepted by KBS.
