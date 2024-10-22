@@ -1,4 +1,4 @@
-Glad to see you here. I'm a second-year master degree candidate of [Harbin Institute of Technology, Shenzhen](http://www.hitsz.edu.cn/), majoring in Computer Science and Technology.
+Glad to see you here. I'm a third-year master degree candidate of [Harbin Institute of Technology, Shenzhen](http://www.hitsz.edu.cn/), majoring in Computer Science and Technology.
 My research interests includes Large Language Models, Multi-modal Learning and Natural Language Processing. If you are seeking any form of **academic cooperation**, please feel free to email me at [joehsj310@gmail.com](mailto:joehsj310@gmail.com).
 
 Currently, I am a master student at [Human Language Technology Lab](http://hlt.hitsz.edu.cn/) supervised by [Prof. Ruifeng Xu](https://faculty.hitsz.edu.cn/xuruifeng).
