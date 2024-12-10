@@ -7,11 +7,12 @@
  * 
 -->
 
-# 📚Preprints
+<!-- # 📚Preprints
 - [Towards Real-World Stickers Use: A New Dataset for Multi-Tag Sticker Recognition](https://arxiv.org/pdf/2403.05428.pdf), Bingbing Wang, Bin Liang, Chun-Mei Feng, Wangmeng Zuo, Zhixin Bai, **Shijue Huang**, Kam-Fai Wong, Ruifeng Xu.
-- [CroPrompt: Cross-task Interactive Prompting for Zero-shot Spoken Language Understanding](https://arxiv.org/pdf/2406.10505), Libo Qin, Fuxuan Wei, Qiguang Chen, Jingxuan Zhou, **Shijue Huang**, Jiasheng Si, Wenpeng Lu, Wanxiang Che.
+- [CroPrompt: Cross-task Interactive Prompting for Zero-shot Spoken Language Understanding](https://arxiv.org/pdf/2406.10505), Libo Qin, Fuxuan Wei, Qiguang Chen, Jingxuan Zhou, **Shijue Huang**, Jiasheng Si, Wenpeng Lu, Wanxiang Che. -->
   
 # 📝 Publications
+- ``AAAI 2025`` [Empowering Self-Learning of LLMs: Inner Knowledge Explicitation as a Catalyst](), **Shijue Huang**, Wanjun Zhong, Deng Cai, Fanqi Wan, Chengyi Wang, Mingxuan Wang, Mu Qiao, Ruifeng Xu.
 - ``ACL 2024 (Findings)`` [Planning, Creation, Usage: Benchmarking LLMs for Comprehensive Tool Utilization in Real-World Complex Scenarios](https://arxiv.org/pdf/2401.17167.pdf), **Shijue Huang**, Wanjun Zhong, Jianqiao Lu, Qi Zhu, Jiahui Gao, Weiwen Liu, Yutai Hou, Xingshan Zeng, Yasheng Wang, Lifeng Shang, Xin Jiang, Ruifeng Xu, Qun Liu.
 - ``ICASSP 2024`` [SDIF-DA: A Shallow-to-Deep Interaction Framework with Data Augmentation for Multi-modal Intent Detection](https://arxiv.org/pdf/2401.00424.pdf), **Shijue Huang**, Libo Qin, Bingbing Wang, Geng Tu, Ruifeng Xu.
 - ``EMNLP 2024 (Findings)`` [CLongEval: A Chinese Benchmark for Evaluating Long-Context Large Language Models](https://arxiv.org/pdf/2403.03514.pdf), Zexuan Qiu, Jingjing Li, **Shijue Huang**, Wanjun Zhong, Irwin King.
