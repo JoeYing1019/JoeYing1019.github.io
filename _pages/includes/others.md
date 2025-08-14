@@ -1,5 +1,5 @@
 # 📖 Educations
-- *2025.09 - Now*, Phd, Hong Kong University of Science and Technology, Hongkong.
+- *2025.09 - Now*, PhD, Hong Kong University of Science and Technology, Hongkong.
 - *2022.09 - 2025.06*, Master, Harbin Institute of Technology, Shenzhen.
 - *2018.08 - 2022.06*, Undergraduate, Harbin Institute of Technology, Harbin.
 
