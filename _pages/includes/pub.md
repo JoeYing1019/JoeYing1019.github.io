@@ -17,7 +17,6 @@
 - <span class="report-tag">Technical Report</span> [Retool: Reinforcement learning for strategic tool use in llms](https://arxiv.org/pdf/2504.11536), Jiazhan Feng\*, **Shijue Huang**\*, Xingwei Qu, Ge Zhang, Yujia Qin, Baoquan Zhong, Chengquan Jiang, Jinxin Chi, Wanjun Zhong.
 - <span class="report-tag">Technical Report</span> [UI-TARS: Pioneering Automated GUI Interaction with Native Agents](https://arxiv.org/pdf/2501.12326), Yujia Qin, Yining Ye, Junjie Fang, Haoming Wang, Shihao Liang, Shizuo Tian, Junda Zhang, Jiahao Li, Yunxin Li, **Shijue Huang**, Wanjun Zhong, Kuanye Li, Jiale Yang, Yu Miao, Woyu Lin, Longxiang Liu, Xu Jiang, Qianli Ma, Jingyu Li, Xiaojun Xiao, Kai Cai, Chuang Li, Yaowei Zheng, Chaolin Jin, Chen Li, Xiao Zhou, Minchao Wang, Haoli Chen, Zhaojian Li, Haihua Yang, Haifeng Liu, Feng Lin, Tao Peng, Xin Liu, Guang Shi
 - <span class="preprint-tag">Arxiv</span> [Acting Less is Reasoning More! Teaching Model to Act Efficiently](https://arxiv.org/pdf/2504.14870), Hongru Wang, Cheng Qian, Wanjun Zhong, Xiusi Chen, Jiahao Qiu, **Shijue Huang**, Bowen Jin, Mengdi Wang, Kam-Fai Wong, Heng Ji.
-- <span class="conference-tag">ACL 2024 (Findings)</span> [Planning, Creation, Usage: Benchmarking LLMs for Comprehensive Tool Utilization in Real-World Complex Scenarios](https://arxiv.org/pdf/2401.17167.pdf), **Shijue Huang**, Wanjun Zhong, Jianqiao Lu, Qi Zhu, Jiahui Gao, Weiwen Liu, Yutai Hou, Xingshan Zeng, Yasheng Wang, Lifeng Shang, Xin Jiang, Ruifeng Xu, Qun Liu.
 
 
 ## Large Language Model Reasoning
@@ -30,6 +29,7 @@
 
 
 ## Benchmark and Evaluation
+- <span class="conference-tag">ACL 2024 (Findings)</span> [Planning, Creation, Usage: Benchmarking LLMs for Comprehensive Tool Utilization in Real-World Complex Scenarios](https://arxiv.org/pdf/2401.17167.pdf), **Shijue Huang**, Wanjun Zhong, Jianqiao Lu, Qi Zhu, Jiahui Gao, Weiwen Liu, Yutai Hou, Xingshan Zeng, Yasheng Wang, Lifeng Shang, Xin Jiang, Ruifeng Xu, Qun Liu.
 - <span class="conference-tag">EMNLP 2024 (Findings)</span> [CLongEval: A Chinese Benchmark for Evaluating Long-Context Large Language Models](https://arxiv.org/pdf/2403.03514.pdf), Zexuan Qiu, Jingjing Li, **Shijue Huang**, Wanjun Zhong, Irwin King.
 - <span class="conference-tag">ACL 2023 (Findings)</span> [MMSD2.0: Towards a Reliable Multi-modal Sarcasm Detection System](https://aclanthology.org/2023.findings-acl.689/), Libo Qin\*, **Shijue Huang**\*, Qiguang Chen, Chenran Cai, Yudi Zhang, Bin Liang, Wanxiang Che, Ruifeng Xu.
 
