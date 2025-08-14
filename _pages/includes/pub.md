@@ -19,6 +19,7 @@
 - <span class="preprint-tag">Arxiv</span> [Acting Less is Reasoning More! Teaching Model to Act Efficiently](https://arxiv.org/pdf/2504.14870), Hongru Wang, Cheng Qian, Wanjun Zhong, Xiusi Chen, Jiahao Qiu, **Shijue Huang**, Bowen Jin, Mengdi Wang, Kam-Fai Wong, Heng Ji.
 
 
+
 ## Large Language Model Reasoning
 - <span class="preprint-tag">Arxiv</span> [AdaCtrl: Towards Adaptive and Controllable Reasoning via Difficulty-Aware Budgeting](https://arxiv.org/pdf/2505.18822), **Shijue Huang**, Hongru Wang, Wanjun Zhong, Zhaochen Su, Jiazhan Feng, Bowen Cao, Yi R Fung.
 - <span class="conference-tag">AAAI 2025 (Oral)</span> [Empowering Self-Learning of LLMs: Inner Knowledge Explicitation as a Catalyst](https://ojs.aaai.org/index.php/AAAI/article/view/34590), **Shijue Huang**, Wanjun Zhong, Deng Cai, Fanqi Wan, Chengyi Wang, Mingxuan Wang, Mu Qiao, Ruifeng Xu.
