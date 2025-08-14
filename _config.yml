@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shijue Huang"
-description              : "Master, Harbin Institute of Technology, Shenzhen. "
+description              : "Hong Kong University of Science and Technology"
 repository               : "JoeYing1019/JoeYing1019.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Shijue Huang (黄仕爵)"
+  name             : "Shijue Huang"
   avatar           : "images/android-chrome-512x512.png"
   bio              : 
   location         : "Shenzhen, China"
