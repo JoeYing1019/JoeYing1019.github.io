@@ -1,6 +1,6 @@
 # 🔥 News
 - *2025.05*: 🔥 Released [AdaCtrl](https://arxiv.org/pdf/2505.18822), supporting adaptive and controllable reasoning via difficulty-aware budgeting!
-- *2024.05*: 🎉 One paper ([SRLM](https://arxiv.org/pdf/2505.14116)) is accepted by ACL 2025 (Findings).
+- *2025.05*: 🎉 One paper ([SRLM](https://arxiv.org/pdf/2505.14116)) is accepted by ACL 2025 (Findings).
 - *2025.04*: 🔥 Released [ReTool](https://retool-rl.github.io/), a reinforcement learning-based multi-turn tool-use agent training framework!
 - *2025.01*: 🎉 Released [UI-TARS](https://github.com/bytedance/UI-TARS): Industry’s open-source GUI Agent foundation model with 6.2K+ GitHub stars!
 - *2024.12*: 🎉 One paper ([SKE-Learn](https://ojs.aaai.org/index.php/AAAI/article/view/34590)) is accepted by AAAI 2025 (Oral).
