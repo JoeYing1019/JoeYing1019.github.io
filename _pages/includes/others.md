@@ -14,4 +14,4 @@
 - TA @ HITSZ Undergraduate Course of Natural Language Processing, 2024 Spring -->
 
 # ♥️ Academic Service
-- Reviewer: ARR, ACL, EMNLP, AAAI, IJCAI, Knowledge-Based Systems
+- Reviewer: ICLR, ARR, ACL, EMNLP, AAAI, IJCAI, Knowledge-Based Systems
