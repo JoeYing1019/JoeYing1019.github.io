@@ -14,8 +14,8 @@
 # 📝 Selected Publications
 
 ## Tool-Learning Agent
-- <span class="report-tag">Technical Report</span> [Seed 2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/seed2/0214/Seed2.0%20Model%20Card.pdf), ByteDance Seed Team.
-- <span class="report-tag">Technical Report</span> [Seed1.8 Model Card: Towards Generalized Real-World Agency](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/research/Seed-1.8-Modelcard.pdf), ByteDance Seed Team.
+<!-- - <span class="report-tag">Technical Report</span> [Seed 2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/seed2/0214/Seed2.0%20Model%20Card.pdf), ByteDance Seed Team.
+- <span class="report-tag">Technical Report</span> [Seed1.8 Model Card: Towards Generalized Real-World Agency](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/research/Seed-1.8-Modelcard.pdf), ByteDance Seed Team. -->
 - <span class="report-tag">Technical Report</span> [UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning](https://arxiv.org/pdf/2509.02544), ByteDance Seed Team.
 - <span class="report-tag">Technical Report</span> [Retool: Reinforcement learning for strategic tool use in llms](https://arxiv.org/pdf/2504.11536), Jiazhan Feng\*, **Shijue Huang**\*, Xingwei Qu, Ge Zhang, Yujia Qin, Baoquan Zhong, Chengquan Jiang, Jinxin Chi, Wanjun Zhong.
 - <span class="report-tag">Technical Report</span> [UI-TARS: Pioneering Automated GUI Interaction with Native Agents](https://arxiv.org/pdf/2501.12326), Yujia Qin, Yining Ye, Junjie Fang, Haoming Wang, Shihao Liang, Shizuo Tian, Junda Zhang, Jiahao Li, Yunxin Li, **Shijue Huang**, Wanjun Zhong, Kuanye Li, Jiale Yang, Yu Miao, Woyu Lin, Longxiang Liu, Xu Jiang, Qianli Ma, Jingyu Li, Xiaojun Xiao, Kai Cai, Chuang Li, Yaowei Zheng, Chaolin Jin, Chen Li, Xiao Zhou, Minchao Wang, Haoli Chen, Zhaojian Li, Haihua Yang, Haifeng Liu, Feng Lin, Tao Peng, Xin Liu, Guang Shi
