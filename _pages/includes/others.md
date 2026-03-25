@@ -15,4 +15,4 @@
 
 # ♥️ Academic Service
 - Area Chair: LLA@ICLR2026
-- Reviewer: ICML, ICLR, ARR, ACL, EMNLP, AAAI, IJCAI, Knowledge-Based Systems (KBS)
+- Reviewer: ICML, NeurIPS, ICLR, ARR, ACL, EMNLP, AAAI, IJCAI, Knowledge-Based Systems (KBS)
