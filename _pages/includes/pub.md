@@ -16,7 +16,7 @@
 
 # 📝 Selected Publications（[Full List](https://scholar.google.com/citations?user=C0Xc3dYAAAAJ&hl=zh-CN)）
 ## Tool-Learning Agent
-- <span class="preprint-tag">Arxiv</span> [Towards On-Policy Data Evolution for Visual-Native Multimodal Deep Search Agents](https://arxiv.org/pdf/2605.10832), **Shijue Huang**, Hangyu Guo, Chenxin Li, Junting Lu, Xinyu Geng, Zhaochen Su, Zhenyu Li, Shuang Chen, Hongru Wang, Yi R Fung.
+- <span class="preprint-tag">Arxiv</span> [Towards On-Policy Data Evolution for Visual-Native Multimodal Deep Search Agents](https://arxiv.org/pdf/2605.10832), **Shijue Huang**, Hangyu Guo, Guanting Dong, Chenxin Li, Junting Lu, Xinyu Geng, Zhaochen Su, Zhenyu Li, Shuang Chen, Hongru Wang, Yi R Fung.
 - <span class="conference-tag">ICLR 2026</span> [Retool: Reinforcement learning for strategic tool use in llms](https://arxiv.org/pdf/2504.11536), Jiazhan Feng\*, **Shijue Huang**\*, Xingwei Qu, Ge Zhang, Yujia Qin, Baoquan Zhong, Chengquan Jiang, Jinxin Chi, Wanjun Zhong.
 - <span class="report-tag">Technical Report</span> [Seed 2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/seed2/0214/Seed2.0%20Model%20Card.pdf), ByteDance Seed Team.
 - <span class="report-tag">Technical Report</span> [Seed1.8 Model Card: Towards Generalized Real-World Agency](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/research/Seed-1.8-Modelcard.pdf), ByteDance Seed Team.
