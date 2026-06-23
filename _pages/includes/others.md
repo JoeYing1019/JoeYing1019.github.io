@@ -1,5 +1,5 @@
 # 📖 Educations
-- *2025.09 - Now*, PhD, Hong Kong University of Science and Technology, Hongkong.
+- *2025.09 - 2028.06 (expected)*, PhD, Hong Kong University of Science and Technology, Hongkong.
 - *2022.09 - 2025.06*, Master, Harbin Institute of Technology, Shenzhen.
 - *2018.08 - 2022.06*, Undergraduate, Harbin Institute of Technology, Harbin.
 
@@ -15,4 +15,4 @@
 
 # ♥️ Academic Service
 - Area Chair: LLA@ICLR2026
-- Reviewer: ICML, NeurIPS, ICLR, ARR, ACL, EMNLP, AAAI, IJCAI, Knowledge-Based Systems (KBS)
+- Reviewer: ICML, NeurIPS, ICLR, TMLR, ARR, ACL, EMNLP, AAAI, IJCAI, Knowledge-Based Systems (KBS)
