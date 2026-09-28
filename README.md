@@ -1,4 +1,10 @@
 
+# Shijue Huang's Homepage
+
+Current site: [joeying1019.github.io](https://joeying1019.github.io/). Content, figure sources, layout and preview instructions are documented in [Homepage Maintenance](docs/HOMEPAGE.md).
+
+The original AcadHomepage template documentation and attribution are retained below.
+
 <h1 align="center">
 AcadHomepage
 </h1>

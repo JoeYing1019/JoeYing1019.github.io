@@ -1,0 +1,109 @@
+# Genuine figure crops. Keep source/page/figure metadata when replacing a thumbnail.
+ode:
+  image: /images/research/ode.png
+  width: 919
+  height: 425
+  label: Visual-native search & data evolution
+  alt: ODE framework combining a visual-native agent harness, a reusable image bank, and closed-loop data evolution.
+  source: https://arxiv.org/pdf/2605.10832
+  page: 3
+  figure: "1"
+retool:
+  image: /images/research/retool.png
+  width: 875
+  height: 452
+  label: Learning strategic tool use
+  alt: ReTool training diagram comparing text-only reinforcement learning with reasoning interleaved with code execution and sandbox feedback.
+  source: https://arxiv.org/pdf/2504.11536
+  page: 4
+  figure: "2"
+adactrl:
+  image: /images/research/adactrl.png
+  width: 748
+  height: 350
+  label: Difficulty-aware reasoning
+  alt: AdaCtrl two-stage training pipeline with cold-start fine-tuning followed by difficulty-aware reinforcement learning.
+  source: https://arxiv.org/pdf/2505.18822
+  page: 4
+  figure: "2"
+ske-learn:
+  image: /images/research/ske-learn.png
+  width: 884
+  height: 470
+  label: Knowledge-guided self-learning
+  alt: SKE-Learn framework showing inner-knowledge extraction, knowledge-guided reasoning, meta-skill training, and iterative self-training.
+  source: https://ojs.aaai.org/index.php/AAAI/article/view/34590/36745
+  page: 3
+  figure: "2"
+ultratool:
+  image: /images/research/ultratool.png
+  width: 824
+  height: 325
+  label: Tool-use benchmark construction
+  alt: UltraTool benchmark construction pipeline covering query collection, solution annotation, and manual refinement.
+  source: https://arxiv.org/pdf/2401.17167
+  page: 4
+  figure: "4"
+seed-2-1:
+  cover: /images/research/seed-2-1-cover.webp
+  cover_width: 900
+  cover_height: 563
+  cover_alt: Official Seed 2.1 release cover.
+  cover_source: https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/user-upload/4xfa4mqq55reg.jpeg
+  cover_page: https://seed.bytedance.com/en/blog/seed2-1-officially-released-advancing-ai-productivity
+  image: /images/research/seed-2-1.png
+  width: 858
+  height: 580
+  label: Computer-use capability & efficiency
+  alt: OSWorld chart comparing Seed2.1 Pro and Turbo success rates and average action counts in GUI-only and Generalist CUA settings.
+  source: https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/seed2.1/Seed2_1_Model_Card.pdf
+  page: 13
+  figure: "5"
+seed-2-0:
+  cover: /images/research/seed-2-0-cover.webp
+  cover_width: 900
+  cover_height: 507
+  cover_alt: Official Seed 2.0 release cover.
+  cover_source: https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/user-upload/5pq1ommbws26m.jpeg
+  cover_page: https://seed.bytedance.com/en/blog/seed-2-0-official-launch
+  image: /images/research/seed-2-0.png
+  width: 857
+  height: 247
+  label: Competitive programming results
+  alt: Seed2.0 Pro competitive programming results across five ICPC contests compared with GPT-5.2 and Gemini-3.0-Pro.
+  source: https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/seed2/0214/Seed2.0%20Model%20Card.pdf
+  page: 26
+  figure: "7"
+seed-1-8:
+  cover: /images/research/seed-1-8-cover.webp
+  cover_width: 900
+  cover_height: 563
+  cover_alt: Official Seed 1.8 release cover.
+  cover_source: https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/user-upload/4og2ymji2cxz1.jpg
+  cover_page: https://seed.bytedance.com/en/blog/official-release-of-seed1-8-a-generalized-agentic-model
+  image: /images/research/seed-1-8.png
+  width: 971
+  height: 371
+  label: Reasoning performance & efficiency
+  alt: Seed1.8 thinking efficiency across AIME25, KORBench, and BeyondAIME, showing performance versus inference tokens.
+  source: https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/research/Seed-1.8-Modelcard.pdf
+  page: 9
+  figure: "1"
+ui-tars-2:
+  image: /images/research/ui-tars-2-figure1.png
+  width: 904
+  height: 677
+  label: Unified agent capabilities
+  alt: UI-TARS-2 demo trajectory combining web search and GUI actions to play Hex, then using a terminal to create a webpage about the experience.
+  source: https://arxiv.org/pdf/2509.02544v2
+  page: 4
+  figure: "1"
+ui-tars:
+  image: /images/research/ui-tars-performance.png
+  width: 1226
+  height: 442
+  label: GUI benchmark performance overview
+  alt: UI-TARS performance overview showing benchmark improvements for the 72B and 7B models alongside a radar comparison of UI-TARS-72B, GPT-4o, and Claude.
+  source: https://arxiv.org/pdf/2501.12326v1
+  page: 1
+  figure: "Unnumbered first-page performance overview, complete bar and radar panels"

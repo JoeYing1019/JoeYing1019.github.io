@@ -1,0 +1,13 @@
+{% assign paper = include.paper %}
+<article class="publication{% if paper.lead %} publication-lead{% endif %}" id="paper-{{ paper.id }}">
+  {% if paper.lead %}{% include research-figure.html id=paper.id name=paper.short_name %}{% endif %}
+  <div class="publication-content">
+    <h3><a href="{{ paper.links.first.url }}">{{ paper.title }}</a></h3>
+    <p class="authors">{{ paper.authors }}</p>
+    <p class="publication-meta">{% if paper.venue == 'arXiv' %}<span class="venue">{{ paper.venue }} {{ paper.year }}</span>{% else %}<strong class="venue">{{ paper.venue }}</strong>{% endif %}</p>
+    <div class="work-links" aria-label="{{ paper.short_name }} resources">
+      {% for link in paper.links %}<a href="{{ link.url }}">[{{ link.label }}]</a>{% endfor %}
+    </div>
+    {% if paper.lead and paper.summary %}<p class="paper-summary">{{ paper.summary }}</p>{% endif %}
+  </div>
+</article>

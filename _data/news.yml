@@ -1,0 +1,37 @@
+# NeurIPS acceptances are user-confirmed; no exact acceptance date is asserted.
+- date: "2026"
+  label: "2026"
+  text: 'Two papers accepted to <strong>NeurIPS 2026</strong>: <a href="https://arxiv.org/abs/2605.10832">ODE</a> and <a href="https://arxiv.org/abs/2602.23166">AgentVista</a>.'
+- date: "2026-06"
+  label: "2026.06"
+  text: 'We released <a href="https://seed.bytedance.com/en/seed2_1"><strong>Seed 2.1</strong></a>, advancing agentic intelligence for productivity. Read the <a href="https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/seed2.1/Seed2_1_Model_Card.pdf">model card</a>.'
+- date: "2026-05"
+  label: "2026.05"
+  text: 'Released <a href="https://on-policy-data-evolution.github.io/"><strong>ODE</strong></a>: on-policy data evolution for visual-native multimodal deep search agents.'
+- date: "2026-03"
+  label: "2026.03"
+  text: '<a href="https://arxiv.org/abs/2505.18822">AdaCtrl</a> accepted to <strong>TMLR</strong>.'
+- date: "2026-02"
+  label: "2026.02"
+  text: 'Released <strong>Seed 2.0</strong>, a unified model for real-world complexity. <a href="https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/seed2/0214/Seed2.0%20Model%20Card.pdf">Model card</a>.'
+- date: "2026-01"
+  label: "2026.01"
+  text: 'Three papers accepted to <strong>ICLR 2026</strong>: ReTool, From Abstract to Contextual, and ARES.'
+- date: "2025-12"
+  label: "2025.12"
+  text: 'Released <strong>Seed 1.8</strong>, towards generalized real-world agency. <a href="https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/research/Seed-1.8-Modelcard.pdf">Model card</a>.'
+- date: "2025-09"
+  label: "2025.09"
+  text: 'Released <a href="https://arxiv.org/abs/2509.02544">UI-TARS-2</a>, an all-in-one agent model for GUI, game, code, and tool use.'
+- date: "2025-04"
+  label: "2025.04"
+  text: 'Released <a href="https://retool-rl.github.io/">ReTool</a>, a reinforcement learning framework for multi-turn tool use.'
+- date: "2025-01"
+  label: "2025.01"
+  text: 'Released <a href="https://github.com/bytedance/UI-TARS">UI-TARS</a>, an open-source GUI agent foundation model.'
+- date: "2024-12"
+  label: "2024.12"
+  text: '<a href="https://ojs.aaai.org/index.php/AAAI/article/view/34590">SKE-Learn</a> accepted to <strong>AAAI 2025 (Oral)</strong>.'
+- date: "2024-05"
+  label: "2024.05"
+  text: '<a href="https://arxiv.org/abs/2401.17167">UltraTool</a> accepted to <strong>Findings of ACL 2024</strong>.'

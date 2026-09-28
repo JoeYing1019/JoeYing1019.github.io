@@ -1,0 +1,73 @@
+- id: seed-2-1
+  short_name: Seed 2.1
+  title: "Seed2.1 Model Card: Agentic Intelligence for Productivity"
+  authors: ByteDance Seed
+  year: 2026
+  date: June 2026
+  featured: true
+  summary: "A model family for agentic productivity, with Pro and Turbo variants supporting real-world workflows, code engineering, and multimodal understanding."
+  links:
+    - label: Model Card
+      url: https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/seed2.1/Seed2_1_Model_Card.pdf
+    - label: Project
+      url: https://seed.bytedance.com/en/seed2_1
+
+- id: seed-2-0
+  short_name: Seed 2.0
+  title: "Seed 2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity"
+  authors: ByteDance Seed Team
+  year: 2026
+  date: February 2026
+  featured: false
+  summary: "A unified model family for complex real-world tasks, with reasoning, multimodal, and agent capabilities."
+  links:
+    - label: Model Card
+      url: https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/seed2/0214/Seed2.0%20Model%20Card.pdf
+    - label: "HF Daily #3"
+      url: https://huggingface.co/papers/date/2026-07-02
+
+- id: seed-1-8
+  short_name: Seed 1.8
+  title: "Seed1.8 Model Card: Towards Generalized Real-World Agency"
+  authors: ByteDance Seed Team
+  year: 2025
+  date: December 2025
+  featured: false
+  summary: "A model release focused on generalized real-world agency."
+  links:
+    - label: Model Card
+      url: https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/research/Seed-1.8-Modelcard.pdf
+
+- id: ui-tars-2
+  short_name: UI-TARS-2
+  title: "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning"
+  authors: ByteDance Seed Team
+  year: 2025
+  date: September 2025
+  featured: false
+  summary: "An agent model combining GUI, game, code, and tool-use capabilities through multi-turn reinforcement learning."
+  links:
+    - label: Report
+      url: https://arxiv.org/pdf/2509.02544
+    - label: "HF Daily #2"
+      url: https://huggingface.co/papers/date/2025-09-03
+
+- id: ui-tars
+  short_name: UI-TARS
+  title: "UI-TARS: Pioneering Automated GUI Interaction with Native Agents"
+  authors: >-
+    Yujia Qin, Yining Ye, Junjie Fang, Haoming Wang, Shihao Liang, Shizuo Tian,
+    Junda Zhang, Jiahao Li, Yunxin Li, <strong>Shijue Huang</strong>, Wanjun Zhong,
+    Kuanye Li, Jiale Yang, Yu Miao, Woyu Lin, Longxiang Liu, Xu Jiang, Qianli Ma,
+    Jingyu Li, Xiaojun Xiao, Kai Cai, Chuang Li, Yaowei Zheng, Chaolin Jin,
+    Chen Li, Xiao Zhou, Minchao Wang, Haoli Chen, Zhaojian Li, Haihua Yang,
+    Haifeng Liu, Feng Lin, Tao Peng, Xin Liu, Guang Shi.
+  year: 2025
+  date: January 2025
+  featured: false
+  summary: "A native agent model for automated interaction with graphical user interfaces."
+  links:
+    - label: Report
+      url: https://arxiv.org/pdf/2501.12326
+    - label: Code
+      url: https://github.com/bytedance/UI-TARS

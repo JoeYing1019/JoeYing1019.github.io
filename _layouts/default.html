@@ -1,38 +1,45 @@
----
-layout: compress
----
-
 <!doctype html>
-<html lang="en" class="no-js">
+<html lang="en">
   <head>
     {% include head.html %}
     {% include head/custom.html %}
   </head>
-
   <body>
-
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
-
-    <div id="main" role="main">
-      {% include sidebar.html %}
-    
-      <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-        {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
-        <div class="page__inner-wrap">
-          <section class="page__content" itemprop="text">
-            {{ content }}
-          </section>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <div class="header-inner">
+        <a class="site-brand" href="{{ '/' | relative_url }}" aria-label="Shijue Huang, homepage">Homepage</a>
+        <nav class="site-nav" aria-label="Main navigation">
+          {% for item in site.data.navigation.main %}
+          <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+          {% endfor %}
+        </nav>
+      </div>
+    </header>
+    <div class="site-shell">
+      <aside class="profile" aria-label="Profile">
+        <img class="profile-photo" src="{{ site.author.avatar | relative_url }}" alt="Shijue Huang" width="184" height="184" fetchpriority="high">
+        <div class="profile-info">
+          <h1>{{ site.author.name }}</h1>
+          <p class="profile-name-cn" lang="zh-CN">黄仕爵</p>
+          <p class="profile-role">2nd-year PhD student</p>
+          <p class="profile-affiliation">Hong Kong University of<br>Science and Technology</p>
+          <p class="profile-location">{{ site.author.location }}</p>
+          <div class="profile-links">
+            <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+            <a href="{{ site.author.googlescholar }}">Google Scholar</a>
+            <a href="https://github.com/{{ site.author.github }}">GitHub</a>
+          </div>
         </div>
-      </article>
+      </aside>
+      <main id="main" tabindex="-1">{{ content }}</main>
     </div>
-
+    <footer class="site-footer">
+      <div class="footer-inner">
+        <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}</p>
+        <p>Updated {{ site.last_updated }} <span aria-hidden="true">/</span> <a href="#about-me">Back to top &#8593;</a></p>
+      </div>
+    </footer>
     {% include scripts.html %}
-    <div id="footer">
-      <div id="footer-text"></div>
-    </div>
-    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=450&t=n&d=uxbx4CWPl-zYzSmuGjNO7S_z5o_diuLtkZ1F0mmMmCU'></script>
-      <p><center> &copy; Shijue Huang </center></p>
-    </div>
   </body>
 </html>

@@ -1,25 +1,11 @@
-# main links links
 main:
-  - title: "About Me"
-    url: "/#about-me"
-
-  - title: "News"
-    url: "/#-news"
-
-  - title: "Publications"
-    url: "/#-publications"
-
-  # - title: "Honors and Awards"
-  #   url: "/#-honors-and-awards"
-  
-  # - title: "CV"
-  #   url: /files/CV_Shijue Huang.pdf
-
-  # - title: "Educations"
-  #   url: "/#-educations"
-
-  # - title: "Invited Talks"
-  #   url: "/#-invited-talks"
-
-  # - title: "Internships"
-  #   url: "/#-internships"
+  - title: About
+    url: /#about-me
+  - title: News
+    url: /#news
+  - title: Reports
+    url: /#reports
+  - title: Publications
+    url: /#publications
+  - title: Background
+    url: /#background

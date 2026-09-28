@@ -7,7 +7,10 @@
 
 # Site Settings
 title                    : "Shijue Huang"
-description              : "Hong Kong University of Science and Technology"
+description              : "Shijue Huang, second-year PhD student at HKUST. Research on agentic reinforcement learning, world models, and recursive self-improvement."
+url                      : "https://joeying1019.github.io"
+baseurl                  : ""
+last_updated             : "September 2026"
 repository               : "JoeYing1019/JoeYing1019.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -152,6 +155,7 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jekyll-redirect-from
   - jemoji
 
 

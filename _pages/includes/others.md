@@ -1,18 +1,15 @@
-# 📖 Educations
-- *2025.09 - 2028.06 (expected)*, PhD, Hong Kong University of Science and Technology, Hongkong.
-- *2022.09 - 2025.06*, Master, Harbin Institute of Technology, Shenzhen.
-- *2018.08 - 2022.06*, Undergraduate, Harbin Institute of Technology, Harbin.
-
-<!-- # 💻 Internships
-- *2024.06 - Now*, Focus on LLM Reasoning and Agent, ByteDance Seed Team, Shenzhen.
-- *2023.11 - 2024.05*, Focus on Planning and Tool Learning of Large Language Models, Huawei Noah's Ark Lab, Shenzhen.
-- *2020.12 - 2022.06*, Focus on Spoken Language Understanding in Task-oriented Dialogue System, SCIR, Harbin Institute of Technology, Harbin. -->
-  
-<!-- # 🧑‍🏫 Teaching
-- TA @ HITSZ Undergraduate Course of Natural Language Processing, 2023 Spring
-- TA @ HITSZ Master Course of Natural Language Processing, 2023 Fall
-- TA @ HITSZ Undergraduate Course of Natural Language Processing, 2024 Spring -->
-
-# ♥️ Academic Service
-- Area Chair: LLA@ICLR2026
-- Reviewer: ICML, NeurIPS, ICLR, TMLR, ARR, ACL, EMNLP, AAAI, IJCAI, Knowledge-Based Systems (KBS)
+<div>
+  <section class="content-section" id="education" aria-labelledby="education-title">
+    <div class="section-heading"><h2 id="education-title">Education</h2></div>
+    <ol class="education-list">
+      <li><span class="timeline-date">2025.09 - 2028.06 (expected)</span><h3>PhD, HKUST</h3><p>Hong Kong University of Science and Technology, Hong Kong</p></li>
+      <li><span class="timeline-date">2022.09 - 2025.06</span><h3>Master's, HIT Shenzhen</h3><p>Harbin Institute of Technology, Shenzhen</p></li>
+      <li><span class="timeline-date">2018.08 - 2022.06</span><h3>Undergraduate, HIT</h3><p>Harbin Institute of Technology, Harbin</p></li>
+    </ol>
+  </section>
+  <section class="content-section service-section" id="service" aria-labelledby="service-title">
+    <div class="section-heading"><h2 id="service-title">Academic Service</h2></div>
+    <p><strong>Area Chair</strong><br>LLA @ ICLR 2026, LLA @ COLM 2026</p>
+    <p><strong>Reviewer</strong><br>ICML, NeurIPS, ICLR, TMLR, ARR, ACL, EMNLP, AAAI, IJCAI, Knowledge-Based Systems (KBS)</p>
+  </section>
+</div>

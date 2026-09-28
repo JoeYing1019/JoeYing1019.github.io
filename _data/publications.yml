@@ -1,0 +1,182 @@
+# NeurIPS 2026 acceptance is confirmed by the site owner; no acceptance date is inferred.
+- id: ode
+  short_name: ODE
+  title: "Towards On-Policy Data Evolution for Visual-Native Multimodal Deep Search Agents"
+  authors: >-
+    <strong>Shijue Huang</strong>, Hangyu Guo, Guanting Dong, Chenxin Li, Junting Lu,
+    Xinyu Geng, Zhaochen Su, Zhenyu Li, Shuang Chen, Hongru Wang, Yi R. (May) Fung.
+  venue: NeurIPS 2026
+  year: 2026
+  lead: true
+  summary: "A visual-native search framework that preserves reusable image evidence and evolves training data through policy-rollout feedback."
+  links:
+    - label: Paper
+      url: https://arxiv.org/pdf/2605.10832
+    - label: Project
+      url: https://on-policy-data-evolution.github.io/
+    - label: Code
+      url: https://github.com/JoeYing1019/ODE
+
+- id: retool
+  short_name: ReTool
+  title: "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs"
+  authors: >-
+    Jiazhan Feng*, <strong>Shijue Huang</strong>*, Xingwei Qu, Ge Zhang, Yujia Qin,
+    Baoquan Zhong, Chengquan Jiang, Jinxin Chi, Wanjun Zhong.
+  venue: ICLR 2026
+  year: 2026
+  lead: true
+  summary: "Reinforcement learning for multi-turn tool use, enabling language models to learn when and how to call tools during reasoning."
+  links:
+    - label: Paper
+      url: https://arxiv.org/pdf/2504.11536
+    - label: Project
+      url: https://retool-rl.github.io/
+    - label: "HF Daily #2"
+      url: https://huggingface.co/papers/date/2025-04-17
+
+- id: adactrl
+  short_name: AdaCtrl
+  title: "AdaCtrl: Towards Adaptive and Controllable Reasoning via Difficulty-Aware Budgeting"
+  authors: >-
+    <strong>Shijue Huang</strong>, Hongru Wang, Wanjun Zhong, Zhaochen Su,
+    Jiazhan Feng, Bowen Cao, Yi R Fung.
+  venue: TMLR
+  year: 2026
+  lead: true
+  summary: "Adaptive and controllable reasoning through difficulty-aware allocation of reasoning budgets."
+  links:
+    - label: Paper
+      url: https://arxiv.org/pdf/2505.18822
+
+- id: ske-learn
+  short_name: SKE-Learn
+  title: "Empowering Self-Learning of LLMs: Inner Knowledge Explicitation as a Catalyst"
+  authors: >-
+    <strong>Shijue Huang</strong>, Wanjun Zhong, Deng Cai, Fanqi Wan, Chengyi Wang,
+    Mingxuan Wang, Mu Qiao, Ruifeng Xu.
+  venue: AAAI 2025 (Oral)
+  year: 2025
+  lead: true
+  # Equal-contribution notation is intentionally omitted at the site owner's request.
+  summary: "A self-learning approach that makes the knowledge within language models explicit to support further learning."
+  links:
+    - label: Paper
+      url: https://ojs.aaai.org/index.php/AAAI/article/view/34590
+
+- id: ultratool
+  short_name: UltraTool
+  title: "Planning, Creation, Usage: Benchmarking LLMs for Comprehensive Tool Utilization in Real-World Complex Scenarios"
+  authors: >-
+    <strong>Shijue Huang</strong>, Wanjun Zhong, Jianqiao Lu, Qi Zhu, Jiahui Gao,
+    Weiwen Liu, Yutai Hou, Xingshan Zeng, Yasheng Wang, Lifeng Shang, Xin Jiang,
+    Ruifeng Xu, Qun Liu.
+  venue: ACL 2024 (Findings)
+  year: 2024
+  lead: true
+  summary: "A benchmark spanning tool planning, creation, and use in complex real-world scenarios."
+  links:
+    - label: Paper
+      url: https://arxiv.org/pdf/2401.17167.pdf
+
+- id: agentvista
+  short_name: AgentVista
+  title: "AgentVista: Evaluating Multimodal Agents in Ultra-Challenging Realistic Visual Scenarios"
+  authors: >-
+    Zhaochen Su, Jincheng Gao, Hangyu Guo, Zhenhua Liu, Lueyang Zhang, Xinyu Geng,
+    <strong>Shijue Huang</strong>, Peng Xia, Guanyu Jiang, Cheng Wang, Yue Zhang,
+    Yi R. (May) Fung, Junxian He.
+  venue: NeurIPS 2026
+  year: 2026
+  lead: false
+  links:
+    - label: Paper
+      url: https://arxiv.org/pdf/2602.23166
+    - label: Project
+      url: https://agentvista-bench.github.io/
+    - label: Code
+      url: https://github.com/hkust-nlp/AgentVista
+    - label: "HF Daily #3"
+      url: https://huggingface.co/papers/date/2026-03-06
+
+- id: claw-eval-live
+  short_name: Claw-Eval-Live
+  title: "Claw-Eval-Live: A Live Agent Benchmark for Evolving Real-World Workflows"
+  authors: >-
+    Chenxin Li, Zhengyang Tang, Huangxin Lin, Yunlong Lin, <strong>Shijue Huang</strong>,
+    Shengyuan Liu, Bowen Ye, Rang Li, Lei Li, Benyou Wang, Yixuan Yuan.
+  venue: arXiv
+  year: 2026
+  lead: false
+  links:
+    - label: Paper
+      url: https://arxiv.org/pdf/2604.28139
+
+- id: agent-world
+  short_name: Agent-World
+  title: "Agent-World: Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence"
+  authors: >-
+    Guanting Dong, Junting Lu, Junjie Huang, Wanjun Zhong, Longxiang Liu,
+    <strong>Shijue Huang</strong>, Zhenyu Li, Yang Zhao, Xiaoshuai Song, Xiaoxi Li,
+    Jiajie Jin, Yutao Zhu, Hanbin Wang, Fangyu Lei, Qinyu Luo, Mingyang Chen,
+    Zehui Chen, Jiazhan Feng, Ji-Rong Wen, Zhicheng Dou.
+  venue: arXiv
+  year: 2026
+  lead: false
+  links:
+    - label: Paper
+      url: https://arxiv.org/pdf/2604.18292
+    - label: "HF Daily #2"
+      url: https://huggingface.co/papers/date/2026-04-21
+
+- id: contextual-mathematics
+  short_name: Contextual Mathematics
+  title: "From Abstract to Contextual: What LLMs Still Cannot Do in Mathematics"
+  authors: >-
+    Bowen Cao, Dongdong Zhang, Yixia Li, Junpeng Liu, <strong>Shijue Huang</strong>,
+    Chufan Shi, Hongyuan Lu, Yaokang Wu, Guanhua Chen, Wai Lam, Furu Wei.
+  venue: ICLR 2026
+  year: 2026
+  lead: false
+  links:
+    - label: Paper
+      url: https://arxiv.org/pdf/2601.23048
+
+- id: ares
+  short_name: Ares
+  title: "Ares: Multimodal adaptive reasoning via difficulty-aware token-level entropy shaping"
+  authors: >-
+    Shuang Chen, Yue Guo, Yimeng Ye, <strong>Shijue Huang</strong>, Wenbo Hu,
+    Haoxi Li, Manyuan Zhang, Jiayu Chen, Song Guo, Nanyun Peng.
+  venue: ICLR 2026
+  year: 2026
+  lead: false
+  links:
+    - label: Paper
+      url: https://arxiv.org/pdf/2510.08457
+
+- id: self-reasoning
+  short_name: Self-Reasoning
+  title: "Self-reasoning language models: Unfold hidden reasoning chains with few reasoning catalyst"
+  authors: >-
+    Hongru Wang, Deng Cai, Wanjun Zhong, <strong>Shijue Huang</strong>, Jeff Z Pan,
+    Zeming Liu, Kam-Fai Wong.
+  venue: ACL 2025 (Findings)
+  year: 2025
+  lead: false
+  links:
+    - label: Paper
+      url: https://arxiv.org/pdf/2505.14116
+
+- id: acting-less
+  short_name: Acting Less
+  title: "Acting Less is Reasoning More! Teaching Model to Act Efficiently"
+  authors: >-
+    Hongru Wang, Cheng Qian, Wanjun Zhong, Xiusi Chen, Jiahao Qiu,
+    <strong>Shijue Huang</strong>, Bowen Jin, Mengdi Wang, Kam-Fai Wong, Heng Ji.
+  venue: arXiv
+  year: 2025
+  lead: false
+  links:
+    - label: Paper
+      url: https://arxiv.org/pdf/2504.14870

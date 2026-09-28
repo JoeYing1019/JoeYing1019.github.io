@@ -1,19 +1,16 @@
 <meta charset="utf-8">
-
-{% include seo.html %}
-
-<meta name="HandheldFriendly" content="True">
-<meta name="MobileOptimized" content="320">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<script>
-  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
-</script>
-
-<!-- For all browsers -->
-<link rel="stylesheet" href="assets/css/main.css">
-
-<meta http-equiv="cleartype" content="on">
-<head>
-  <base target="_blank">
-</head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ site.title | escape }} | Reasoning &amp; Agents</title>
+<meta name="description" content="{{ site.description | escape }}">
+<meta name="author" content="{{ site.author.name | escape }}">
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+<meta property="og:type" content="website">
+<meta property="og:title" content="{{ site.title | escape }}">
+<meta property="og:description" content="{{ site.description | escape }}">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:image" content="{{ site.author.avatar | absolute_url }}">
+<meta name="twitter:card" content="summary">
+<link rel="stylesheet" href="{{ '/assets/css/homepage.css' | relative_url }}">
+{% if site.google_site_verification %}<meta name="google-site-verification" content="{{ site.google_site_verification | escape }}">{% endif %}
+{% if site.bing_site_verification %}<meta name="msvalidate.01" content="{{ site.bing_site_verification | escape }}">{% endif %}
+{% if site.baidu_site_verification %}<meta name="baidu-site-verification" content="{{ site.baidu_site_verification | escape }}">{% endif %}
