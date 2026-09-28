@@ -64,7 +64,7 @@
   summary: "A self-learning approach that makes the knowledge within language models explicit to support further learning."
   links:
     - label: Paper
-      url: https://ojs.aaai.org/index.php/AAAI/article/view/34590
+      url: https://ojs.aaai.org/index.php/AAAI/article/download/34590/36745
 
 - id: ultratool
   short_name: UltraTool
