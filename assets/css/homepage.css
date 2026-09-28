@@ -38,7 +38,6 @@ summary { cursor: pointer; }
 .profile-name-cn { font-size: 16px; color: #444; margin-bottom: 14px; }
 .profile-role { font-size: 14px; margin-bottom: 6px; }
 .profile-affiliation { font-size: 14px; line-height: 1.5; margin-bottom: 10px; }
-.profile-location { font-size: 13px; color: var(--muted); margin-bottom: 15px; }
 .profile-links { display: grid; gap: 7px; font-size: 14px; }
 main { min-width: 0; }
 main:focus { outline: none; }
@@ -124,7 +123,6 @@ main:focus { outline: none; }
   .profile-name-cn { font-size: 15px; margin-bottom: 10px; }
   .profile-role { margin-bottom: 4px; }
   .profile-affiliation { font-size: 13px; margin-bottom: 6px; }
-  .profile-location { display: none; }
   .profile-links { display: flex; flex-wrap: wrap; gap: 4px 14px; font-size: 13px; }
   .about-section p { font-size: 15px; }
   .content-section { margin-top: 25px; }
@@ -153,7 +151,7 @@ main:focus { outline: none; }
 }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
 @media print {
-  .site-header, .skip-link, .profile-photo, .profile-links, .profile-location { display: none; }
+  .site-header, .skip-link, .profile-photo, .profile-links { display: none; }
   .site-shell { display: block; padding: 0; }
   .profile { position: static; margin-bottom: 22px; }
   .profile-name-cn, .profile-role, .profile-affiliation { display: inline; margin-right: 12px; }
