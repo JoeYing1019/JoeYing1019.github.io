@@ -1,7 +1,8 @@
 {% assign figure = site.data.figures[include.id] %}
 {% if figure %}
 {% assign display_image = figure.cover | default: figure.image %}
-<a class="research-figure" href="{{ display_image | relative_url }}" target="_blank" rel="noopener" aria-label="Enlarge {{ include.name }} image (opens in a new tab)">
+{% assign paper_url = include.paper_url | default: figure.source %}
+<a class="research-figure" href="{{ paper_url | escape }}" target="_blank" rel="noopener" aria-label="Open {{ include.name | escape }} paper PDF (opens in a new tab)">
   <img src="{{ display_image | relative_url }}" alt="{{ figure.cover_alt | default: figure.alt | escape }}" width="{{ figure.cover_width | default: figure.width }}" height="{{ figure.cover_height | default: figure.height }}" loading="lazy" decoding="async">
   <span class="figure-caption">{{ figure.label }} <span aria-hidden="true">&#8599;</span></span>
 </a>

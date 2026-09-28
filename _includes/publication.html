@@ -1,6 +1,6 @@
 {% assign paper = include.paper %}
 <article class="publication{% if paper.lead %} publication-lead{% endif %}" id="paper-{{ paper.id }}">
-  {% if paper.lead %}{% include research-figure.html id=paper.id name=paper.short_name %}{% endif %}
+  {% if paper.lead %}{% include research-figure.html id=paper.id name=paper.short_name paper_url=paper.links.first.url %}{% endif %}
   <div class="publication-content">
     <h3><a href="{{ paper.links.first.url }}">{{ paper.title }}</a></h3>
     <p class="authors">{{ paper.authors }}</p>

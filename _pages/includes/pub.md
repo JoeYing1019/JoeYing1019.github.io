@@ -3,7 +3,7 @@
   <div class="report-list">
     {% for report in site.data.reports %}
     <article class="report{% if report.featured %} report-featured{% endif %}" id="report-{{ report.id }}">
-      {% include research-figure.html id=report.id name=report.short_name %}
+      {% include research-figure.html id=report.id name=report.short_name paper_url=report.links.first.url %}
       <div class="report-content">
         <h3><a href="{{ report.links.first.url }}">{{ report.title }}</a></h3>
         {% if report.id == 'ui-tars' %}
