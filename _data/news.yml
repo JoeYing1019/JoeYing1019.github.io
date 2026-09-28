@@ -1,6 +1,6 @@
-# NeurIPS acceptances are user-confirmed; no exact acceptance date is asserted.
-- date: "2026"
-  label: "2026"
+# NeurIPS acceptances and the announcement month are confirmed by the site owner.
+- date: "2026-09"
+  label: "2026.09"
   text: 'Two papers accepted to <strong>NeurIPS 2026</strong>: <a href="https://arxiv.org/abs/2605.10832">ODE</a> and <a href="https://arxiv.org/abs/2602.23166">AgentVista</a>.'
 - date: "2026-06"
   label: "2026.06"

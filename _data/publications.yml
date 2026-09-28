@@ -32,6 +32,8 @@
       url: https://arxiv.org/pdf/2504.11536
     - label: Project
       url: https://retool-rl.github.io/
+    - label: Code
+      url: https://github.com/ReTool-RL/ReTool
     - label: "HF Daily #2"
       url: https://huggingface.co/papers/date/2025-04-17
 
@@ -78,6 +80,8 @@
   links:
     - label: Paper
       url: https://arxiv.org/pdf/2401.17167.pdf
+    - label: Code
+      url: https://github.com/JoeYing1019/UltraTool
 
 - id: agentvista
   short_name: AgentVista
