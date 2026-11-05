@@ -1,3 +1,6 @@
+- date: "2026-11"
+  label: "2026.11"
+  text: 'We released <a href="https://arxiv.org/pdf/2611.05450"><strong>ReScopeBench</strong></a>, a benchmark for experience acquisition, reuse, and revision in evolving environments.'
 # NeurIPS acceptances and the announcement month are confirmed by the site owner.
 - date: "2026-09"
   label: "2026.09"

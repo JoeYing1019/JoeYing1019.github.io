@@ -1,4 +1,13 @@
 # Genuine figure crops. Keep source/page/figure metadata when replacing a thumbnail.
+rescopebench:
+  image: /images/research/rescopebench-figure1.png
+  width: 1340
+  height: 840
+  label: Experience construction and lifecycle
+  alt: ReScopeBench overview showing experience-first benchmark construction and agent experience acquisition, reuse, invalidation, and selective revision.
+  source: https://arxiv.org/pdf/2611.05450v1
+  page: 4
+  figure: "1"
 ode:
   image: /images/research/ode.png
   width: 919

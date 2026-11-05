@@ -14,11 +14,11 @@ This site keeps the existing Jekyll / GitHub Pages deployment, with a lightweigh
 - `_pages/includes/others.md` and `honers.md`: education, service and honors.
 - `assets/css/homepage.css`: responsive styles, with colors and typography defined at the top.
 
-Original author lists are retained. Both NeurIPS 2026 acceptances and the second-year PhD status were supplied by the site owner. SKE-Learn's equal-contribution notation is intentionally omitted at the owner's request. No personal contribution roles have been inferred for team-authored model cards.
+Original author lists are retained. Both NeurIPS 2026 acceptances and the second-year PhD status were supplied by the site owner. Equal-contribution stars mark the first three AdaCtrl authors and the first two ReTool, ReScopeBench and SKE-Learn authors. No personal contribution roles have been inferred for team-authored model cards.
 
 ## Figures
 
-The ten illustrated works use seven original paper figures and three official Seed release covers, not generated artwork. PDF page/figure numbers and official cover source URLs are recorded in `_data/figures.yml`. Previous chart and diagram crops are retained as alternatives. UI-TARS uses the complete first-page performance overview, including both the benchmark bar chart and the radar chart with their legends; UI-TARS-2 uses the complete Figure 1 demo trajectory from PDF page 4. Preserve chart labels and use `object-fit: contain`. Clicking a thumbnail opens the work's paper PDF in a new tab, using the same URL as its title and primary resource link.
+The eleven illustrated works use eight original paper figures and three official Seed release covers, not generated artwork. PDF page/figure numbers and official cover source URLs are recorded in `_data/figures.yml`. Previous chart and diagram crops are retained as alternatives. ReScopeBench uses the complete Figure 1 overview from PDF page 4. UI-TARS uses the complete first-page performance overview, including both the benchmark bar chart and the radar chart with their legends; UI-TARS-2 uses the complete Figure 1 demo trajectory from PDF page 4. Preserve chart labels and use `object-fit: contain`. Clicking a thumbnail opens the work's paper PDF in a new tab, using the same URL as its title and primary resource link.
 
 ## Preview
 

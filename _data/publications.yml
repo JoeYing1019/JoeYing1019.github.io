@@ -1,3 +1,21 @@
+- id: rescopebench
+  short_name: ReScopeBench
+  title: "Towards Robust Long-Lived Agents: Benchmarking Experience Lifecycles in Evolving Environments"
+  authors: >-
+    <strong>Shijue Huang</strong>*, Hangyu Guo*, Hengheng Zhang, Guo An, Zhitao He,
+    Qi Tian, Yiren Feng.
+  venue: arXiv
+  year: 2026
+  lead: true
+  summary: "A benchmark for how agents acquire, reuse, and selectively revise structural and rule experience across 18 evolving environments."
+  links:
+    - label: Paper
+      url: https://arxiv.org/pdf/2611.05450
+    - label: Project
+      url: https://rescopebench.github.io/
+    - label: Code
+      url: https://github.com/JoeYing1019/ReScopeBench
+
 # NeurIPS 2026 acceptance is confirmed by the site owner; no acceptance date is inferred.
 - id: ode
   short_name: ODE
@@ -41,7 +59,7 @@
   short_name: AdaCtrl
   title: "AdaCtrl: Towards Adaptive and Controllable Reasoning via Difficulty-Aware Budgeting"
   authors: >-
-    <strong>Shijue Huang</strong>, Hongru Wang, Wanjun Zhong, Zhaochen Su,
+    <strong>Shijue Huang</strong>*, Hongru Wang*, Wanjun Zhong*, Zhaochen Su,
     Jiazhan Feng, Bowen Cao, Yi R Fung.
   venue: TMLR
   year: 2026
@@ -55,12 +73,11 @@
   short_name: SKE-Learn
   title: "Empowering Self-Learning of LLMs: Inner Knowledge Explicitation as a Catalyst"
   authors: >-
-    <strong>Shijue Huang</strong>, Wanjun Zhong, Deng Cai, Fanqi Wan, Chengyi Wang,
+    <strong>Shijue Huang</strong>*, Wanjun Zhong*, Deng Cai, Fanqi Wan, Chengyi Wang,
     Mingxuan Wang, Mu Qiao, Ruifeng Xu.
   venue: AAAI 2025 (Oral)
   year: 2025
   lead: true
-  # Equal-contribution notation is intentionally omitted at the site owner's request.
   summary: "A self-learning approach that makes the knowledge within language models explicit to support further learning."
   links:
     - label: Paper
